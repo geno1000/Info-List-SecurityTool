@@ -1,6 +1,6 @@
 # Info-List-SecurityTool
 
-## Vulnerable Check
+## Vulnerable Scan
 #### Server
 * Nessus
 * OpenVAS
